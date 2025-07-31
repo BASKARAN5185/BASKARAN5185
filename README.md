@@ -105,19 +105,3 @@ Check out my latest thoughts on automation, testing strategies, and industry tre
 - [Case Study: Automating the Demowebshop User Flows](#)
 
 ---
-
-## 🎨 Design & Interactivity Suggestions
-
-- **Color Scheme:** Use a consistent palette like deep blue (#3776AB), green (#43B02A), white, and neutral grays for backgrounds and text.  
-- **Typography:** Clean sans-serif fonts (e.g., Poppins or Montserrat for headings, Open Sans or Lato for body).  
-- **Whitespace:** Ample padding and margin for readability and a clean look.  
-- **Hover Effects:** Buttons and project cards lift or change color slightly on hover for tactile feedback.  
-- **Animations:** Use subtle fade-ins or slide animations on scroll for sections and images using CSS or JS libraries (e.g., AOS).  
-- **Responsive:** Ensure layouts adapt on mobile with stacked columns, collapsible menus, and touch-friendly buttons.  
-- **Personal Branding:** Add a simple logo or monogram with your initials “B” or “BK” for consistent identity.
-
----
-
-*Feel free to let me know if you want me to generate the HTML/CSS/React code based on this structure!*  
----
-
