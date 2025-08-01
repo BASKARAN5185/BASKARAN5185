@@ -13,7 +13,7 @@
 
 ## 👤 About Me
 
-I'm Baskaran, a passionate QA Engineer with 5+ years of experience specializing in **test automation, API & web testing**.  
+I'm Baskaran, a passionate QA Engineer with 1+ years of experience specializing in **test automation, API & web testing**.  
 I thrive on building **scalable test automation frameworks** using **Python, Java, Selenium, and Playwright**.  
 Currently, I’m expanding my skills in **CI/CD pipelines, API mocking, and AI-powered testing** to push the boundaries of quality assurance.  
 
