@@ -19,11 +19,6 @@ Currently, I’m expanding my skills in **CI/CD pipelines, API mocking, and AI-p
 
 > "Delivering reliable software with precision and passion is what drives me every day."
 
-<p align="center">
-  <!-- Placeholder for professional photo -->
-  <img src="https://via.placeholder.com/150" alt="Baskaran's Photo" style="border-radius:50%; margin-top:10px;" />
-</p>
-
 ---
 
 ## 🛠️ Skills & Technologies
@@ -88,11 +83,6 @@ Feel free to reach out for collaboration or opportunities!
 - **Email:** [baskarbala5185@gmail.com](mailto:baskarbala5185@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/baskaran5185](https://linkedin.com/in/baskaran5185)  
 - **GitHub:** [github.com/BASKARAN5185](https://github.com/BASKARAN5185)  
-
-<p align="center">
-  <a href="mailto:baskarbala5185@gmail.com" style="padding: 12px 24px; background-color:#3776AB; color:white; border-radius: 6px; text-decoration:none; margin-right: 10px;">📩 Hire Me</a>
-  <a href="/Baskaran_Resume.pdf" download style="padding: 12px 24px; background-color:#43B02A; color:white; border-radius: 6px; text-decoration:none;">⬇️ Download Resume</a>
-</p>
 
 ---
 
