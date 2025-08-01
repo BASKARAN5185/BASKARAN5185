@@ -23,12 +23,26 @@ Currently, I’m expanding my skills in **CI/CD pipelines, API mocking, and AI-p
 
 ## 🛠️ Skills & Technologies
 
+---
+
 ### Technical Skills
 
-| Programming & Tools            | Testing Frameworks           | CI/CD & DevOps Tools       |
-|-------------------------------|-----------------------------|----------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2C2C2C?style=flat&logo=playwright&logoColor=green) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
-| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-F7DF1E?style=flat&logo=testng&logoColor=black) | REST API Testing & Automation | API Mocking & Virtualization |
+| Programming & Tools            | Testing Frameworks & Tools                                      | CI/CD & DevOps Tools       |
+|-------------------------------|------------------------------------------------------------------|----------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2C2C2C?style=flat&logo=playwright&logoColor=green) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-F7DF1E?style=flat&logo=testng&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) <br> REST API Testing & Automation, POM (Page Object Model) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) <br> API Mocking & Virtualization |
+
+---
+
+#### Additional Competencies
+
+- **Testing:** Manual Testing, Automation Testing, Regression Testing, Smoke Testing, User Acceptance Testing (UAT)  
+- **Automation Tools:** Selenium WebDriver, TestNG, Postman, Jenkins, Git  
+- **Languages:** Java, Python  
+- **Test Management:** Jira, Taiga, Excel  
+- **Methodologies:** Agile Scrum, SDLC, STLC, Bug Life Cycle  
+- **Operating Systems:** Windows, Linux, macOS  
+
+---
 
 ### Soft Skills
 
