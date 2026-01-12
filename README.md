@@ -1,109 +1,68 @@
-# Hi 👋, I'm Baskaran
+# 🚀 Baskaran B. | SDET & Quality Automation 
 
-<p align="center">
-  <em>QA Engineer | Test Automation Specialist | API & Web Tester</em>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70d1f4&width=700&lines=Quality+Engineering+Specialist;Lead+SDET+%2F+Automation+Architect;CI%2FCD+%2B+Containerized+Testing;Playwright+%7C+REST+Assured+%7C+Java+%7C+Python" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="mailto:baskarbala5185@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/baskaran5185" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://github.com/BASKARAN5185" target="_blank">💻 GitHub</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baskaran5185)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baskarbala5185@gmail.com)
+[![GitHub Status](https://img.shields.io/badge/System-Active-brightgreen?style=for-the-badge)](https://github.com/BASKARAN5185)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## 🏗️ Quality Engineering Lifecycle
+I bridge the gap between development and operations by treating **test code as production code**. My focus is on reducing the "Time to Market" by implementing automated quality gates.
+
+
+
+### 💡 Core Engineering ROI
+* 🚀 **Shift-Left Testing:** Validating API & Integration layers early in the development cycle.
+* 🛠️ **Infrastructure as Code:** Dockerizing test environments for consistent, "no-flakiness" execution.
+* ⚡ **Performance:** Reducing UI regression time by **80%** through asynchronous worker sharding.
 
 ---
 
-## 👤 About Me
-I'm Baskaran, a passionate **QA Engineer** with ~2 years of experience in **test automation, API, and web testing**.  
-I thrive on building **scalable test automation frameworks** using **Python, Java, Selenium, and Playwright**.  
-Currently expanding skills in **CI/CD pipelines, API mocking, and AI-powered testing**.
+## 🛠️ The Tech Command Center (Stack Grid)
 
-> "Delivering reliable software with precision and passion is my daily drive."
-
----
-
-## 🛠️ Skills & Technologies
-
-### Programming & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-### Test Automation & Frameworks
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2C2C2C?style=flat&logo=playwright&logoColor=green)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-F7DF1E?style=flat&logo=testng&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### CI/CD & DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Testing & Methodologies
-- REST API Testing, Automation Testing, Regression Testing, Smoke Testing, UAT
-- Agile Scrum, SDLC, STLC, Bug Life Cycle
-- Jira, Taiga, Excel
-
-### Soft Skills
-- Problem-solving & Analytical Thinking  
-- Clear Communication & Collaboration  
-- Detail-oriented Bug Hunting  
-- Adaptability & Continuous Learning  
+| 🌐 UI ARCHITECTURE | 📡 API & BACKEND | ⚙️ DEVOPS & INFRA |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=playwright,selenium,js,py" /> | <img src="https://skillicons.dev/icons?i=java,postman,mongodb" /> | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,git" /> |
+| **Playwright / Selenium** | **REST Assured / Java** | **CI/CD Pipeline Design** |
+| **POM / BDD (Cucumber)** | **Schema Validation** | **Docker Containerization** |
+| **Python / JavaScript** | **Service Mocking** | **Linux & Shell Scripting** |
 
 ---
 
-## 📁 Highlighted Projects
+## 🏛️ Automation Framework Architecture
+I design maintainable codebases that focus on scalability and modularity.
 
-### 🧪 [My-API-Testing-Projects](https://github.com/BASKARAN5185/My-API-Testing-Projects)
-**Role:** API Automation Engineer  
-**Tools:** Postman, Newman, JavaScript  
-**Description:** Created comprehensive Postman collections with automated test scripts for REST API validation, improving API reliability and catching critical bugs early.  
 
-### 🛍️ [Demowebshop Playwright Automation Framework](https://github.com/BASKARAN5185/Demowebshop-Playwright-Automation-Framework)
-**Role:** Lead Automation Engineer  
-**Tools:** Python, Playwright, Page Object Model  
-**Description:** Developed a scalable automation framework validating major e-commerce user flows, ensuring end-to-end functionality with high stability.  
 
-### 📊 [EspoCRM Demo Site Automation Testing](https://github.com/BASKARAN5185/EspoCRM-Demo-Site-Automation-Testing)
-**Role:** QA Automation Tester  
-**Tools:** Selenium WebDriver, TestNG, Java  
-**Description:** Automated core CRM workflows including lead and contact management, enhancing test repeatability and reducing manual QA efforts.  
-
-### 👔 [OrangeHRM Automation Testing Project](https://github.com/BASKARAN5185/OrangeHRM-Automation-Testing-Project)
-**Role:** Automation Tester  
-**Tools:** Java, Selenium, TestNG  
-**Description:** Created automation scripts to test HR management functionalities, improving defect detection rates and software quality.  
-
-### 🚀 [SpaceX API Functional Test](https://github.com/BASKARAN5185/SpaceX-API-Functional-Test)
-**Role:** API Test Engineer  
-**Tools:** Postman  
-**Description:** Designed and implemented REST API test suites for public SpaceX endpoints, validating real-time data and ensuring API consistency.  
+### 📂 Featured Strategic Projects
+* **[Playwright Hybrid Engine](https://github.com/BASKARAN5185/Demowebshop-Playwright-Automation-Framework):** Python-based framework with parallel sharding.
+* **[REST-Assured API Shield](https://github.com/BASKARAN5185/My-API-Testing-Projects):** Java suite with automated JSON schema guards.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 Performance & Activity Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BASKARAN5185&show_icons=true&theme=radical" alt="Baskaran's GitHub Stats" />
-</p>
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=BASKARAN5185&show_icons=true&theme=tokyonight&hide_border=true&title_color=70d1f4" width="400px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASKARAN5185&layout=compact&theme=tokyonight&hide_border=true&title_color=70d1f4" width="300px" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASKARAN5185&hide=html&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📈 Global Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BASKARAN5185&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BASKARAN5185&theme=radical" alt="GitHub Streak" />
-</p>
 
----
-
-## 📞 Contact Me
-- **Email:** [baskarbala5185@gmail.com](mailto:baskarbala5185@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/baskaran5185](https://linkedin.com/in/baskaran5185)  
-- **GitHub:** [github.com/BASKARAN5185](https://github.com/BASKARAN5185)  
 
 ---
 
-<p align="center">
-  Made with ❤️ by Baskaran
-</p>
+## 🤝 Establish Connection
+* 👔 **Target Roles:** Senior SDET / QA Automation Architect  
+* 📍 **Location:** Chennai, India (Expert in Remote Collaboration)
+* 👔 **Status:** Open to high-impact engineering challenges
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
