@@ -1,68 +1,183 @@
-# 🚀 Baskaran B. | SDET & Quality Automation 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Baskaran B
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70d1f4&width=700&lines=Quality+Engineering+Specialist;Lead+SDET+%2F+Automation+Architect;CI%2FCD+%2B+Containerized+Testing;Playwright+%7C+REST+Assured+%7C+Java+%7C+Python" alt="Typing SVG" />
+<h3 align="center">
+QA Automation Engineer | SDET | Playwright | Selenium | API Testing
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Playwright+%7C+Selenium+Expert;REST+API+Automation;CI%2FCD+Automation;Banking+%7C+ERP+%7C+AI%2FRAG+Applications;Building+Reliable+Automation+Frameworks" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baskaran5185)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baskarbala5185@gmail.com)
-[![GitHub Status](https://img.shields.io/badge/System-Active-brightgreen?style=for-the-badge)](https://github.com/BASKARAN5185)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## 🏗️ Quality Engineering Lifecycle
-I bridge the gap between development and operations by treating **test code as production code**. My focus is on reducing the "Time to Market" by implementing automated quality gates.
-
-
-
-### 💡 Core Engineering ROI
-* 🚀 **Shift-Left Testing:** Validating API & Integration layers early in the development cycle.
-* 🛠️ **Infrastructure as Code:** Dockerizing test environments for consistent, "no-flakiness" execution.
-* ⚡ **Performance:** Reducing UI regression time by **80%** through asynchronous worker sharding.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BASKARAN5185&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/BASKARAN5185?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/BASKARAN5185?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ The Tech Command Center (Stack Grid)
+# 💫 About Me
 
-| 🌐 UI ARCHITECTURE | 📡 API & BACKEND | ⚙️ DEVOPS & INFRA |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=playwright,selenium,js,py" /> | <img src="https://skillicons.dev/icons?i=java,postman,mongodb" /> | <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,git" /> |
-| **Playwright / Selenium** | **REST Assured / Java** | **CI/CD Pipeline Design** |
-| **POM / BDD (Cucumber)** | **Schema Validation** | **Docker Containerization** |
-| **Python / JavaScript** | **Service Mocking** | **Linux & Shell Scripting** |
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
----
+🚀 QA Automation Engineer with **2.4+ Years**
 
-## 🏛️ Automation Framework Architecture
-I design maintainable codebases that focus on scalability and modularity.
+💼 Banking • ERP • AI/RAG • Web • Mobile
 
+🧪 UI + API + Database Testing
 
+⚡ Playwright | Selenium | REST Assured
 
-### 📂 Featured Strategic Projects
-* **[Playwright Hybrid Engine](https://github.com/BASKARAN5185/Demowebshop-Playwright-Automation-Framework):** Python-based framework with parallel sharding.
-* **[REST-Assured API Shield](https://github.com/BASKARAN5185/My-API-Testing-Projects):** Java suite with automated JSON schema guards.
+🔄 GitHub Actions | Jenkins | Docker
+
+📍 Chennai, India
+
+🎯 Open to SDET & Senior QA Automation Roles
 
 ---
 
-## 📊 Performance & Activity Metrics
+# 🏆 Achievement Highlights
 
-<table border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=BASKARAN5185&show_icons=true&theme=tokyonight&hide_border=true&title_color=70d1f4" width="400px" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASKARAN5185&layout=compact&theme=tokyonight&hide_border=true&title_color=70d1f4" width="300px" /></td>
-  </tr>
-</table>
+✅ Automated **250+ Regression Test Cases**
 
-### 📈 Global Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BASKARAN5185&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+✅ Built Scalable POM Frameworks
 
+✅ API Automation using REST Assured
 
+✅ CI/CD Pipeline Integration
+
+✅ SQL Backend Validation
+
+✅ Agile Scrum Delivery
 
 ---
 
-## 🤝 Establish Connection
-* 👔 **Target Roles:** Senior SDET / QA Automation Architect  
-* 📍 **Location:** Chennai, India (Expert in Remote Collaboration)
-* 👔 **Status:** Open to high-impact engineering challenges
+# ⚙️ Tech Stack
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=playwright,selenium,java,ts,python,git,github,githubactions,jenkins,docker,mysql,postman,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=BASKARAN5185&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BASKARAN5185&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BASKARAN5185&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BASKARAN5185&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BASKARAN5185&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎯 Playwright Automation Framework
+
+✔ Parallel Execution
+
+✔ Hybrid Framework
+
+✔ HTML Reports
+
+✔ Data Driven
+
+✔ CI/CD Ready
+
+🔗 https://github.com/BASKARAN5185/Demowebshop-Playwright-Automation-Framework
+
+---
+
+### 🌐 REST Assured API Automation
+
+✔ Authentication
+
+✔ CRUD
+
+✔ Schema Validation
+
+✔ API Regression
+
+✔ Reporting
+
+🔗 https://github.com/BASKARAN5185/My-API-Testing-Projects
+
+---
+
+# 💼 Experience
+
+🏦 Digital Banking
+
+🤖 AI/RAG Applications
+
+🏭 ERP Applications
+
+🛒 E-Commerce
+
+📱 Mobile Testing
+
+---
+
+# 🎓 Certifications
+
+🏅 Software Testing & Automation
+
+🏅 Mastering Playwright & TypeScript
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/baskaran5185">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:baskarbala5185@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/BASKARAN5185">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer"/>
+
+</p>
